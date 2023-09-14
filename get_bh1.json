@@ -1,11 +1,12 @@
 {
-"verNum" :2,
-"link" : "el.mobarmeg.pingpong--huawei" ,
-"link2" : "el.mobarmeg.pingpong",
+"verNum" :3,
+"link" : "el.mobarmeg.bricksbreaker" ,
+"link2" : "el.mobarmeg.bricksbreaker",
 "linkApple" : "no",
-"sendLink" : "https://play.google.com/store/apps/details?id=el.mobarmeg.pingpong",
-"sendLink2" : "https://appgallery.huawei.com/app/C108987857",
+"sendLink" : "https://play.google.com/store/apps/details?id=el.mobarmeg.bricksbreaker",
+"sendLink2" : "https://appgallery.huawei.com/app/C109155459",
 "sendLinkApple" : "no",
 "merge" : "no",
 "me" : "yes"
 }
+
